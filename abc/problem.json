@@ -1,0 +1,9 @@
+{
+    "code": "abc",
+    "name": "Alice, Bob and Circuit",
+    "time_limit": 10,
+    "memory_limit": 2147483648,
+    "score_precision": 2,
+    "task_type": "Communication",
+    "task_type_params": "{}"
+}
